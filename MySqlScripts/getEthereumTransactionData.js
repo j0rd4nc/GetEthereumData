@@ -1,5 +1,4 @@
 // Connect to the Ethereum node (e.g., Infura)
-// Connect to the Ethereum node (e.g., Infura)
 const infuraUrl = 'https://mainnet.infura.io/v3/c80ff596b4aa49ac914f01e097c05b67';
 
 const mysql = require('mysql2');
