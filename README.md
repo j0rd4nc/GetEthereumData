@@ -1,4 +1,8 @@
-# User Guide
+## Overview
+
+This program collects Ethereum block and transaction data by using the Infura API to make RPC (remote procedure call) requests to RPC nodes within the network.
+
+## User Guide
 Step 1. Start SQL connection in unix terminal with `sudo service mysql start`\
 Step 2. Run script(s)\
 Step 3. To open the database, open SQL with `mysql -u root -p` and run `USE ethereum_data;`\
